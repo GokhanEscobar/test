@@ -5,6 +5,9 @@
 28.02.2021 = loader inject kernel mode
 1.03.2021 = imgui_impl_dx9 some edit 
 1.03.2021 =  update safety
+2.03.2021 = Improve quality of skin preview images by generating mipmaps
+2.03.2021 = Linux: Fix crash after recent game update
+
 
 
 
